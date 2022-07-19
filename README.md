@@ -3,6 +3,7 @@
 A single-page application with user authentication that interacts with a custom API served by Express. Registered users can create, read, update, and delete songs as part of a database of playlists, which is mapped to rows of a table and displayed on the DOM.
 
 Quick Links - 
+
 [deployed app](https://trevorlomba.github.io/my-playlist-client/)
 
 [frontend repo](https://github.com/trevorlomba/my-playlist-client)
