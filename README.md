@@ -1,4 +1,5 @@
-# My Playlist by Trevor Lomba
+# My Playlist 
+#### by Trevor Lomba
 
 ## Quick Links
 
